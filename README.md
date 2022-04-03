@@ -5,9 +5,13 @@ Build a UI for the Chat page similar to the mock - Chat Mocks
 The data for the page can be fetched from - 
 https://my-json-server.typicode.com/codebuds-fk/chat/chats
 
-Product Features
+**Final UI**
 
-Chat List
+![Alt text](assets/finalUI.png "Title")
+
+**Product Features**
+
+**Chat List**
 
 * The chat list loads with a list of chats as fetched from the api source.
 
@@ -17,7 +21,7 @@ Chat List
 
 * You can filter the Chat List via Chat Title / Order ID. The current selected chat is highlighted.
 
-Single Chat View
+**Single Chat View**
 
 * Shows the messages for a particular chat in bottom to top order, i.e., The latest message is at the bottom of the chat.
 * There are two message types - ‘text’ and ‘optionedMessage’. Both are displayed differently. Please refer to the mocks for the same.
